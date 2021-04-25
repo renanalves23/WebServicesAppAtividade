@@ -14,14 +14,7 @@ namespace AppAtividadeMvp.DAL
         static SacReportDAL()
         {
             SacReport ocorrencia = new SacReport();
-            //ocorrencia.numeroTicket = 1;
-            //ocorrencia.IdBloco = 2;
-            //ocorrencia.IdEmpreendimento = 30;
-            //ocorrencia.IdUnidade = 23;
-            //ocorrencia.idCliente = 5;
             ocorrencia.description = "Nao consegui acessar o tutorial do Ifood";
-            //ocorrencia.Bandeira = 3;
-
             ocorrencia.numeroTicket = 1;
             ocorrencia.firstName = "Renan";
             ocorrencia.lastName = "Mendes";
