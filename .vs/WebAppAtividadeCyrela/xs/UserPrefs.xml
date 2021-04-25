@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{BB5703F3-D447-4D15-8CBD-29040EBB67C3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppAtividadeCyrela/App_Start/WebApiConfig.cs">
+    <Files>
+      <File FileName="AppAtividadeCyrela/Models/Assistencia.cs" Line="37" Column="32" />
+      <File FileName="AppAtividadeCyrela/DAL/AssistenciaDAL.cs" Line="51" Column="40" />
+      <File FileName="AppAtividadeCyrela/Controllers/AssistenciaController.cs" Line="54" Column="16" />
+      <File FileName="AppAtividadeCyrela/Models/Ocorrencia.cs" Line="41" Column="32" />
+      <File FileName="AppAtividadeCyrela/DAL/OcorrenciaDAL.cs" Line="55" Column="47" />
+      <File FileName="AppAtividadeCyrela/Controllers/OcorrenciaController.cs" Line="76" Column="14" />
+      <File FileName="AppAtividadeCyrela/App_Start/WebApiConfig.cs" Line="20" Column="63" />
+      <File FileName="AppAtividadeCyrela/Properties/AssemblyInfo.cs" Line="12" Column="46" />
+      <File FileName="AppAtividadeCyrela/Global.asax.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebAppAtividadeCyrela" expanded="True">
+            <Node name="AppWebServicesMVP" expanded="True">
+              <Node name="App_Start" expanded="True">
+                <Node name="WebApiConfig.cs" selected="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="DAL" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Global.asax" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AppWebServicesMVP PreferredExecutionTarget="/Applications/Opera GX.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{BB5703F3-D447-4D15-8CBD-29040EBB67C3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/OcorrenciaController.cs">
+    <Files>
+      <File FileName="Models/Assistencia.cs" Line="38" Column="38" />
+      <File FileName="App_Start/WebApiConfig.cs" Line="1" Column="1" />
+      <File FileName="DAL/AssistenciaDAL.cs" Line="58" Column="39" />
+      <File FileName="Controllers/AssistenciaController.cs" Line="41" Column="104" />
+      <File FileName="Models/Ocorrencia.cs" Line="41" Column="32" />
+      <File FileName="DAL/OcorrenciaDAL.cs" Line="28" Column="29" />
+      <File FileName="Controllers/OcorrenciaController.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppWebServicesMVP" expanded="True">
+            <Node name="AppWebServicesMVP" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="OcorrenciaController.cs" selected="True" />
+              </Node>
+              <Node name="DAL" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AppWebServicesMVP PreferredExecutionTarget="/Applications/Opera GX.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
