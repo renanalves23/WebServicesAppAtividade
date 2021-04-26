@@ -16,14 +16,6 @@ namespace AppAtividadeMvp.DAL
         {
             Cadastro tecnico = new Cadastro();
             tecnico.idUser = 1;
-            //tecnico.IdBloco = 2;
-            //tecnico.IdEmpreendimento = 30;
-            //tecnico.IdUnidade = 23;
-            //tecnico.TipoAtividade = "Assistencia Técnica";
-            //tecnico.AtividadeIni = DateTime.Now;
-            //tecnico.AtividadeFim = DateTime.Now.AddHours(1);
-            //tecnico.Assunto = "TV a Cabo";
-            tecnico.idUser = 1;
             tecnico.firstName = "Renan";
             tecnico.lastName = "Mendes";
             tecnico.email = "renan@renan.com";
